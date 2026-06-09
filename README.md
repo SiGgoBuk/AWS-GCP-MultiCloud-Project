@@ -84,4 +84,4 @@ mysql -h db.cloud.local -u history -p
 
 ## 자료
 
-[Multi-Cloud Project HISTORY.pdf](./docs/1_history_multicloud.pdf)
+[Multi-Cloud Project HISTORY.pdf](./docs/1_history_multi-cloud.pdf)
